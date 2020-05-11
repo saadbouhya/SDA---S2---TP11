@@ -1,0 +1,59 @@
+SUJET TP 11 : TP DE SYNTHESE
+
+un fichier courses.txt contient des noms
+ de villes (un par ligne)
+				val_d_isere
+				vengen
+				kitzbuhel
+				soldeu
+				val_gardena
+				garmisch_partenkirchen
+				bormio
+				chamonix
+				st_moritz				
+				aspen
+
+
+pour chaque ville lue dans courses.txt, il existe 
+un fichier nommé <ville>.dat contenant 
+des structures T_Skieur définies dans ski.h
+Il faut trier ces skieurs du + rapide au + lent pour affecter les points. Le skieur arrivé en tête obtient 20 points, 16 points au suivant puis 12,8,4.
+REMARQUE : en cas d'égalité entre deux skieurs, c'est celui dont le dossart est le plus élevé qui se classe avant l'autre.
+
+
+OBJECTIFS : 
+-- Produire un fichier texte contenant le classement de 
+chaque course (ville.txt). 10 fichiers txt sont à produire.  
+-- Produire un fichier texte contenant le classement 
+général (general.txt)
+
+Le fichier resultats_TP11 est donné pour illustrer les classements demandés (petit bug à l'affichage parfois)
+
+
+
+Procédez par étapes :
+
+
+ETAPE 1 : être capable de lire un fichier .dat (rempli d'un nombre inconnu et variable de structures skieurs) et l'afficher à l'écran. L'option 1 de votre menu demandera  à l'utilisateur le nom de la ville dont il faut lire et afficher le .dat
+
+ETAPE 2 : être capable de lire le fichier courses.txt ligne par ligne (donc ville par ville) puis pour chaque ville, lire le .dat associé et l'afficher à l'écran. (option 2 de votre menu : aucune saisie à faire par l'utilisateur)
+
+ETAPE 3 : si l'option 2 fonctionne, être capable de produire le fichier villes.txt de chaque course.
+(option 3 de votre menu : aucune saisie à faire par l'utilisateur)
+
+ETAPE 4 : si l'option 2 fonctionne, être capable de produire le fichier general.txt contenant le classement final après les 10 courses.
+(option 4 de votre menu : aucune saisie à faire par l'utilisateur)
+
+ETAPE 5 : une nouvelle course s'est déroulée ce week end à Lake_louise. Ajouter ce nom en fin de votre fichier courses.txt et dupliquez un fichier .dat en le renommant Lake_louise.dat. Votre programme fonctionne t il encore en tenant compte de cette 11ème course ?
+
+Quand rendre son TP ?
+
+-version 1 : en fin de séance (12h15 ou 17h45 selon votre créneau HP)
+-version 2 : sous 7 jours pour ceux qui le souhaitent
+
+ 
+
+
+
+
+

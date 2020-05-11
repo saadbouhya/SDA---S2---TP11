@@ -1,0 +1,253 @@
+
+*************************************** val_d_isere.dat *************************************
+
+                              Grange   118    17  20
+                            Hirscher   119    23  16
+                            Kostelic   120    99  12
+                               Janka   121    21   8
+                               Tomba   122    62   4
+                          Pinturault   123    35   0
+                                Yule   124    71   0
+                             Svindal   125    88   0
+                               Maier   125     3   0
+                               Cuche   128    11   0
+                              Miller   129     7   0
+                               Vidal   130    47   0
+***************************************classement finale *************************************
+
+                              Grange   236    17  20
+                            Hirscher   238    23  16
+                            Kostelic   240    99  12
+                               Janka   242    21   8
+                               Tomba   244    62   4
+                             Svindal   250    88   0
+                                Yule   248    71   0
+                               Vidal   260    47   0
+                          Pinturault   246    35   0
+                               Cuche   256    11   0
+                              Miller   258     7   0
+                               Maier   250     3   0
+*************************************** vengen.dat *************************************
+
+                               Janka   131    21  20
+                            Hirscher   138    23  16
+                          Pinturault   139    35  12
+                             Svindal   140    88   8
+                              Grange   142    17   4
+                              Miller   143     7   0
+                               Tomba   148    62   0
+                            Kostelic   150    99   0
+                               Vidal   152    47   0
+                                Yule   164    71   0
+                               Cuche   168    11   0
+                               Maier   171     3   0
+***************************************classement finale *************************************
+
+                            Hirscher   376    23  32
+                               Janka   373    21  28
+                              Grange   378    17  24
+                            Kostelic   390    99  12
+                          Pinturault   385    35  12
+                             Svindal   390    88   8
+                               Tomba   392    62   4
+                                Yule   412    71   0
+                               Vidal   412    47   0
+                               Cuche   424    11   0
+                              Miller   401     7   0
+                               Maier   421     3   0
+*************************************** kitzbuhel.dat *************************************
+
+                               Cuche   155    11  20
+                            Kostelic   158    99  16
+                              Miller   160     7  12
+                               Janka   161    21   8
+                               Maier   162     3   4
+                                Yule   164    71   0
+                             Svindal   166    88   0
+                               Tomba   166    62   0
+                          Pinturault   167    35   0
+                            Hirscher   168    23   0
+                               Vidal   169    47   0
+                              Grange   169    17   0
+***************************************classement finale *************************************
+
+                               Janka   534    21  36
+                            Hirscher   544    23  32
+                            Kostelic   548    99  28
+                              Grange   547    17  24
+                               Cuche   579    11  20
+                          Pinturault   552    35  12
+                              Miller   561     7  12
+                             Svindal   556    88   8
+                               Tomba   558    62   4
+                               Maier   583     3   4
+                                Yule   576    71   0
+                               Vidal   581    47   0
+*************************************** soldeu.dat *************************************
+
+                               Cuche   155    11  20
+                            Kostelic   158    99  16
+                               Vidal   159    47  12
+                               Janka   164    21   8
+                              Miller   166     7   4
+                          Pinturault   167    35   0
+                                Yule   169    71   0
+                            Hirscher   171    23   0
+                               Tomba   172    62   0
+                               Maier   172     3   0
+                             Svindal   175    88   0
+                              Grange   179    17   0
+***************************************classement finale *************************************
+
+                            Kostelic   706    99  44
+                               Janka   698    21  44
+                               Cuche   734    11  40
+                            Hirscher   715    23  32
+                              Grange   726    17  24
+                              Miller   727     7  16
+                               Vidal   740    47  12
+                          Pinturault   719    35  12
+                             Svindal   731    88   8
+                               Tomba   730    62   4
+                               Maier   755     3   4
+                                Yule   745    71   0
+*************************************** val_gardena.dat *************************************
+
+                                Yule   157    71  20
+                            Kostelic   158    99  16
+                               Vidal   159    47  12
+                            Hirscher   160    23   8
+                               Maier   162     3   4
+                             Svindal   165    88   0
+                               Cuche   165    11   0
+                          Pinturault   167    35   0
+                               Janka   168    21   0
+                              Grange   169    17   0
+                              Miller   176     7   0
+                               Tomba   182    62   0
+***************************************classement finale *************************************
+
+                            Kostelic   864    99  60
+                               Janka   866    21  44
+                            Hirscher   875    23  40
+                               Cuche   899    11  40
+                               Vidal   899    47  24
+                              Grange   895    17  24
+                                Yule   902    71  20
+                              Miller   903     7  16
+                          Pinturault   886    35  12
+                             Svindal   896    88   8
+                               Maier   917     3   8
+                               Tomba   912    62   4
+*************************************** garmisch_partenkirchen.dat *************************************
+
+                            Hirscher   148    23  20
+                               Janka   149    21  16
+                               Cuche   150    11  12
+                               Tomba   152    62   8
+                             Svindal   154    88   4
+                                Yule   157    71   0
+                            Kostelic   158    99   0
+                               Vidal   159    47   0
+                               Maier   162     3   0
+                          Pinturault   167    35   0
+                              Grange   169    17   0
+                              Miller   176     7   0
+***************************************classement finale *************************************
+
+                            Kostelic  1022    99  60
+                            Hirscher  1023    23  60
+                               Janka  1015    21  60
+                               Cuche  1049    11  52
+                               Vidal  1058    47  24
+                              Grange  1064    17  24
+                                Yule  1059    71  20
+                              Miller  1079     7  16
+                             Svindal  1050    88  12
+                               Tomba  1064    62  12
+                          Pinturault  1053    35  12
+                               Maier  1079     3   8
+*************************************** bormio.dat *************************************
+
+                               Maier   132     3  20
+                              Grange   133    17  16
+                            Hirscher   134    23  12
+                               Vidal   136    47   8
+                               Janka   149    21   4
+                               Cuche   151    11   0
+                               Tomba   152    62   0
+                             Svindal   154    88   0
+                                Yule   157    71   0
+                            Kostelic   158    99   0
+                          Pinturault   167    35   0
+                              Miller   176     7   0
+***************************************classement finale *************************************
+
+                            Hirscher  1157    23  72
+                               Janka  1164    21  64
+                            Kostelic  1180    99  60
+                               Cuche  1200    11  52
+                              Grange  1197    17  40
+                               Vidal  1194    47  32
+                               Maier  1211     3  28
+                                Yule  1216    71  20
+                              Miller  1255     7  16
+                             Svindal  1204    88  12
+                               Tomba  1216    62  12
+                          Pinturault  1220    35  12
+*************************************** chamonix.dat *************************************
+
+                            Hirscher   119    23  20
+                             Svindal   124    88  16
+                              Miller   126     7  12
+                                Yule   127    71   8
+                               Janka   129    21   4
+                               Maier   132     3   0
+                              Grange   133    17   0
+                               Vidal   136    47   0
+                            Kostelic   138    99   0
+                               Cuche   151    11   0
+                               Tomba   152    62   0
+                          Pinturault   167    35   0
+***************************************classement finale *************************************
+
+                            Hirscher  1276    23  92
+                               Janka  1293    21  68
+                            Kostelic  1318    99  60
+                               Cuche  1351    11  52
+                              Grange  1330    17  40
+                               Vidal  1330    47  32
+                             Svindal  1328    88  28
+                                Yule  1343    71  28
+                              Miller  1381     7  28
+                               Maier  1343     3  28
+                               Tomba  1368    62  12
+                          Pinturault  1387    35  12
+*************************************** st_moritz.dat *************************************
+
+                               Janka    99    21  20
+                             Svindal   104    88  16
+                              Miller   106     7  12
+                          Pinturault   107    35   8
+                            Kostelic   108    99   4
+                            Hirscher   109    23   0
+                                Yule   117    71   0
+                               Tomba   121    62   0
+                               Maier   122     3   0
+                              Grange   123    17   0
+                               Vidal   126    47   0
+                               Cuche   131    11   0
+***************************************classement finale *************************************
+
+                            Hirscher  1385    23  92
+                               Janka  1392    21  88
+                            Kostelic  1426    99  64
+                               Cuche  1482    11  52
+                             Svindal  1432    88  44
+                              Grange  1453    17  40
+                              Miller  1487     7  40
+                               Vidal  1456    47  32
+                                Yule  1460    71  28
+                               Maier  1465     3  28
+                          Pinturault  1494    35  20
+                               Tomba  1489    62  12

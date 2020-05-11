@@ -1,0 +1,130 @@
+********* val_d_isere.dat********* 
+    Grange    118     17   20 
+  Hirscher    119     23   16 
+  Kostelic    120     99   12 
+     Janka    121     21    8 
+     Tomba    122     62    4 
+Pinturault    123     35    0 
+      Yule    124     71    0 
+   Svindal    125     88    0 
+     Maier    125      3    0 
+     Cuche    128     11    0 
+    Miller    129      7    0 
+     Vidal    130     47    0 
+********* vengen.dat********* 
+     Janka    131     21   20 
+  Hirscher    138     23   16 
+Pinturault    139     35   12 
+   Svindal    140     88    8 
+    Grange    142     17    4 
+    Miller    143      7    0 
+     Tomba    148     62    0 
+  Kostelic    150     99    0 
+     Vidal    152     47    0 
+      Yule    164     71    0 
+     Cuche    168     11    0 
+     Maier    171      3    0 
+********* kitzbuhel.dat********* 
+     Cuche    155     11   20 
+  Kostelic    158     99   16 
+    Miller    160      7   12 
+     Janka    161     21    8 
+     Maier    162      3    4 
+      Yule    164     71    0 
+   Svindal    166     88    0 
+     Tomba    166     62    0 
+Pinturault    167     35    0 
+  Hirscher    168     23    0 
+     Vidal    169     47    0 
+    Grange    169     17    0 
+********* soldeu.dat********* 
+     Cuche    155     11   20 
+  Kostelic    158     99   16 
+     Vidal    159     47   12 
+     Janka    164     21    8 
+    Miller    166      7    4 
+Pinturault    167     35    0 
+      Yule    169     71    0 
+  Hirscher    171     23    0 
+     Tomba    172     62    0 
+     Maier    172      3    0 
+   Svindal    175     88    0 
+    Grange    179     17    0 
+********* val_gardena.dat********* 
+      Yule    157     71   20 
+  Kostelic    158     99   16 
+     Vidal    159     47   12 
+  Hirscher    160     23    8 
+     Maier    162      3    4 
+   Svindal    165     88    0 
+     Cuche    165     11    0 
+Pinturault    167     35    0 
+     Janka    168     21    0 
+    Grange    169     17    0 
+    Miller    176      7    0 
+     Tomba    182     62    0 
+********* garmisch_partenkirchen.dat********* 
+  Hirscher    148     23   20 
+     Janka    149     21   16 
+     Cuche    150     11   12 
+     Tomba    152     62    8 
+   Svindal    154     88    4 
+      Yule    157     71    0 
+  Kostelic    158     99    0 
+     Vidal    159     47    0 
+     Maier    162      3    0 
+Pinturault    167     35    0 
+    Grange    169     17    0 
+    Miller    176      7    0 
+********* bormio.dat********* 
+     Maier    132      3   20 
+    Grange    133     17   16 
+  Hirscher    134     23   12 
+     Vidal    136     47    8 
+     Janka    149     21    4 
+     Cuche    151     11    0 
+     Tomba    152     62    0 
+   Svindal    154     88    0 
+      Yule    157     71    0 
+  Kostelic    158     99    0 
+Pinturault    167     35    0 
+    Miller    176      7    0 
+********* chamonix.dat********* 
+  Hirscher    119     23   20 
+   Svindal    124     88   16 
+    Miller    126      7   12 
+      Yule    127     71    8 
+     Janka    129     21    4 
+     Maier    132      3    0 
+    Grange    133     17    0 
+     Vidal    136     47    0 
+  Kostelic    138     99    0 
+     Cuche    151     11    0 
+     Tomba    152     62    0 
+Pinturault    167     35    0 
+********* st_moritz.dat********* 
+     Janka     99     21   20 
+   Svindal    104     88   16 
+    Miller    106      7   12 
+Pinturault    107     35    8 
+  Kostelic    108     99    4 
+  Hirscher    109     23    0 
+      Yule    117     71    0 
+     Tomba    121     62    0 
+     Maier    122      3    0 
+    Grange    123     17    0 
+     Vidal    126     47    0 
+     Cuche    131     11    0 
+********* aspen.dat********* 
+     Vidal     76     47   20 
+Pinturault     77     35   16 
+    Miller     78      7   12 
+     Janka     79     21    8 
+  Hirscher     80     23    4 
+     Cuche     81     11    0 
+     Maier     82      3    0 
+    Grange     83     17    0 
+   Svindal     84     88    0 
+      Yule     87     71    0 
+  Kostelic     88     99    0 
+     Tomba     91     62    0 
